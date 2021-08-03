@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on a Bugtracker app
+- 🔭 I’m currently working on a Task/Event app
 - 🌱 I’m currently learning as much as possible
 - 🤔 I’m looking for help with JavaScript
 - 📫 How to reach me: shawnatwrussell@gmail.com
